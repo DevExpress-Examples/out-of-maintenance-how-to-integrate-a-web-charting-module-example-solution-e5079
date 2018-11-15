@@ -1,3 +1,35 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/InventoryWebChart_1/Default.aspx) (VB: [Default.aspx.vb](./VB/InventoryWebChart_1/Default.aspx.vb))
+* [Default.aspx.cs](./CS/InventoryWebChart_1/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/InventoryWebChart_1/Default.aspx.vb))
+* [Global.asax](./CS/InventoryWebChart_1/Global.asax) (VB: [Global.asax](./VB/InventoryWebChart_1/Global.asax))
+* [Global.asax.cs](./CS/InventoryWebChart_1/Global.asax.cs) (VB: [Global.asax](./VB/InventoryWebChart_1/Global.asax))
+* [Default.aspx](./CS/InventoryWebChart_2/Default.aspx) (VB: [Default.aspx](./VB/InventoryWebChart_2/Default.aspx))
+* [Default.aspx.cs](./CS/InventoryWebChart_2/Default.aspx.cs) (VB: [Default.aspx](./VB/InventoryWebChart_2/Default.aspx))
+* [Global.asax](./CS/InventoryWebChart_2/Global.asax) (VB: [Global.asax.vb](./VB/InventoryWebChart_2/Global.asax.vb))
+* [Global.asax.cs](./CS/InventoryWebChart_2/Global.asax.cs) (VB: [Global.asax.vb](./VB/InventoryWebChart_2/Global.asax.vb))
+* [BO.cs](./CS/InventoryWebChart_3/BO.cs) (VB: [BO.vb](./VB/InventoryWebChart_3/BO.vb))
+* [Default.aspx](./CS/InventoryWebChart_3/Default.aspx) (VB: [Default.aspx.vb](./VB/InventoryWebChart_3/Default.aspx.vb))
+* [Default.aspx.cs](./CS/InventoryWebChart_3/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/InventoryWebChart_3/Default.aspx.vb))
+* [Global.asax](./CS/InventoryWebChart_3/Global.asax) (VB: [Global.asax.vb](./VB/InventoryWebChart_3/Global.asax.vb))
+* [Global.asax.cs](./CS/InventoryWebChart_3/Global.asax.cs) (VB: [Global.asax.vb](./VB/InventoryWebChart_3/Global.asax.vb))
+* [BO.cs](./CS/InventoryWebChart_4/BO.cs) (VB: [BO.vb](./VB/InventoryWebChart_4/BO.vb))
+* [Default.aspx](./CS/InventoryWebChart_4/Default.aspx) (VB: [Default.aspx](./VB/InventoryWebChart_4/Default.aspx))
+* [Default.aspx.cs](./CS/InventoryWebChart_4/Default.aspx.cs) (VB: [Default.aspx](./VB/InventoryWebChart_4/Default.aspx))
+* [Global.asax](./CS/InventoryWebChart_4/Global.asax) (VB: [Global.asax.vb](./VB/InventoryWebChart_4/Global.asax.vb))
+* [Global.asax.cs](./CS/InventoryWebChart_4/Global.asax.cs) (VB: [Global.asax.vb](./VB/InventoryWebChart_4/Global.asax.vb))
+* [BO.cs](./CS/InventoryWebChart_5/BO.cs) (VB: [BO.vb](./VB/InventoryWebChart_5/BO.vb))
+* [Default.aspx](./CS/InventoryWebChart_5/Default.aspx) (VB: [Default.aspx.vb](./VB/InventoryWebChart_5/Default.aspx.vb))
+* [Default.aspx.cs](./CS/InventoryWebChart_5/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/InventoryWebChart_5/Default.aspx.vb))
+* [Global.asax](./CS/InventoryWebChart_5/Global.asax) (VB: [Global.asax](./VB/InventoryWebChart_5/Global.asax))
+* [Global.asax.cs](./CS/InventoryWebChart_5/Global.asax.cs) (VB: [Global.asax](./VB/InventoryWebChart_5/Global.asax))
+* [BO.cs](./CS/InventoryWebChart_6/BO.cs) (VB: [BO.vb](./VB/InventoryWebChart_6/BO.vb))
+* [Default.aspx](./CS/InventoryWebChart_6/Default.aspx) (VB: [Default.aspx.vb](./VB/InventoryWebChart_6/Default.aspx.vb))
+* [Default.aspx.cs](./CS/InventoryWebChart_6/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/InventoryWebChart_6/Default.aspx.vb))
+* [Global.asax](./CS/InventoryWebChart_6/Global.asax) (VB: [Global.asax](./VB/InventoryWebChart_6/Global.asax))
+* [Global.asax.cs](./CS/InventoryWebChart_6/Global.asax.cs) (VB: [Global.asax](./VB/InventoryWebChart_6/Global.asax))
+<!-- default file list end -->
 # How to integrate a web charting module - example solution
 
 
