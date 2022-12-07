@@ -46,7 +46,7 @@ namespace InventoryWebChart {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.ASPxPopupControl productsPopup;
+        protected global::DevExpress.Web.ASPxPopupControl productsPopup;
         
         /// <summary>
         /// productsChart control.

@@ -49,7 +49,7 @@ Namespace InventoryWebChart
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected printChart As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected printChart As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' productsPopup control.
@@ -58,7 +58,7 @@ Namespace InventoryWebChart
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected productsPopup As Global.DevExpress.Web.ASPxPopupControl.ASPxPopupControl
+		Protected productsPopup As Global.DevExpress.Web.ASPxPopupControl
 
 		''' <summary>
 		''' productsChart control.
